@@ -1,3 +1,3 @@
 # test
 
-mirror check
+mirror check 2
